@@ -1,0 +1,1 @@
+web: gunicorn wordteller.wsgi --log-file -
